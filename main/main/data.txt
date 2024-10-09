@@ -1,0 +1,10 @@
+@pipeline@
+vostok
+100
+12
+1
+@cs@
+zavod
+100
+12
+12
